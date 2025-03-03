@@ -78,7 +78,7 @@ body {
 
 .item {
     list-style: none;
-    display: flexbox
+    display: flexbox;
 }
 .p {
     color: white;
