@@ -76,3 +76,11 @@ body {
     flex-direction: row;
 }
 
+.item {
+    list-style: none;
+    display: flexbox
+}
+.p {
+    color: white;
+    text-decoration: none;
+}
